@@ -1,2 +1,2 @@
-# CSharp-14.Proje
+# C#-14.Proje
 Koleksiyonlar2
